@@ -1,0 +1,15 @@
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.csproj.AssemblyReference.cache
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\Orders.exe
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\Orders.deps.json
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\Orders.runtimeconfig.json
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\Orders.dll
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\ref\Orders.dll
+E:\Projetos\LearningCsharp\Orders\Orders\bin\Debug\net6.0\Orders.pdb
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.dll
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\ref\Orders.dll
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.pdb
+E:\Projetos\LearningCsharp\Orders\Orders\obj\Debug\net6.0\Orders.genruntimeconfig.cache
